@@ -1,0 +1,50 @@
+@media (max-width:992px){
+    .description {
+        margin-top: 15%;
+        text-align: center;
+    }
+    .description h1{
+        margin: 5%;
+    }
+    .description p{
+        padding:0 20%;
+    }
+    .mobile{
+        padding: 10% 5%;
+    }
+    .mobile-content{
+        width: 20rem;
+    }
+    .top-bg{
+        height: 50%;
+        width: 70%;
+        left: -10%;
+        border-bottom-left-radius: 0;
+    }
+    .bottom-bg{
+        height: 40%;
+        width: 60%;
+    }
+    
+}
+@media (max-width:750px){
+    .mobile-content *{
+        font-size: .5rem;
+    }
+    .mobile-content{
+        width: 14rem;
+    }
+    .top-bg{
+        height: 50%;
+        width: 50%;
+        left: -10%;
+        border-bottom-left-radius: 0;
+    }
+    .bottom-bg{
+        height: 40%;
+        width: 50%;
+    }
+    .description p{
+        padding:0 5%;
+    }
+}
