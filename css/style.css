@@ -1,17 +1,4 @@
-i{
-    color: hsl(276, 100%, 81%)
-    hsl(276, 55%, 52%)
-    hsl(271, 15%, 43%) hsl(206, 6%, 79%)
-    hsl(271, 36%, 24%) hsl(270, 7%, 64%)
-   
-    hsl(293, 100%, 63%)
-    hsl(264, 100%, 61%)
-   
-    hsl(0, 0%, 100%)
-    hsl(270, 20%, 96%)
-    hsl(271, 36%, 24%)
-    hsl(289, 100%, 72%);
-}
+
 *{
     margin: 0;
     padding: 0;
@@ -35,7 +22,7 @@ body{
     left: 0;
 }
 .bottom-bg{
-    background: linear-gradient(0deg, rgba(136,56,240,1) 20%, rgba(233,66,240,1) 100%);
+    background: linear-gradient(0deg, rgb(191, 148, 247) 20%, rgb(254, 227, 255) 80%);
     height: 80%;
     width: 22%;
     border-top-left-radius: 180px;
