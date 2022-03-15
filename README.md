@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/using-bootstrap-and-flexbox-YSvlEYMie)
 - [Live Site](https://nitheeshkumar-c.github.io/chat-app-css-illustration/)
 
 ## My process
